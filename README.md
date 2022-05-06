@@ -13,7 +13,7 @@ All Countries, States & Locations are Covered & Populated with Different Combina
 
 ## Distribution Files Info
 File | JSON | SQL
-:------------ | :-------------| :-------------| :------------- |:-------------|:-------------
+:------------ | :-------------
 Countries | :white_check_mark: | :white_check_mark:
 States | :white_check_mark: | :white_check_mark:
 Locations | :white_check_mark: | :white_check_mark:
